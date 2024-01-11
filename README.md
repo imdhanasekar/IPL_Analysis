@@ -1,6 +1,6 @@
 # PowerBI-IPL-Analysis 📈
 I've created a dynamic Power BI dashboard to delve into the thrilling world of the Indian Premier League (IPL). From team performance trends to player statistics, this interactive dashboard provides a comprehensive view of the IPL action over the years.
-![image](https://github.com/imdhanasekar/IPL_Project/blob/main/ipl%20project/dashboard.png)
+
 
 
 I've used two datasets:
@@ -8,6 +8,7 @@ I've used two datasets:
 2.ipl_matches_2008_2022.csv
 
 # Created Dynamic Dashboard to identify the following insights
+![image](https://github.com/imdhanasekar/IPL_Project/blob/main/ipl%20project/dashboard.png)
 - The IPL winner and Runner for each season.
 - The recipients of the Orange Cap (leading run-scorer) and Purple Cap (leading wicket-taker) for each season.
 - Total number of 4's & 6's for each season.

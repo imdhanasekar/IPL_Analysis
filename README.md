@@ -19,6 +19,8 @@ I've used two datasets:
 - Matches win by result type(wickets or runs) for each season which can be further examined for each team by applying cross filters.
 
 # Created AI Visual(Decomposition tree) to identify the following insights
+![image](https://github.com/imdhanasekar/IPL_Project/blob/main/ipl%20project/runs.png)
+![image](https://github.com/imdhanasekar/IPL_Project/blob/main/ipl%20project/sixes%20and%20fours.png)
 - Total runs scored by batsmen in IPL which can be drilled down to each season, each team and each players.
 - Total Sixes by batsmen in IPL which can be drilled down to each season, each team and each players.
 - Total Fours by batsmen in IPL which can be drilled down to each season, each team and each players.

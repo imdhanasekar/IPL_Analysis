@@ -1,6 +1,6 @@
 # PowerBI-IPL-Analysis 📈
 I've created a dynamic Power BI dashboard to delve into the thrilling world of the Indian Premier League (IPL). From team performance trends to player statistics, this interactive dashboard provides a comprehensive view of the IPL action over the years.
-![image](
+![image](https://github.com/imdhanasekar/IPL_Project/blob/main/ipl%20project/dashboard.png)
 
 
 I've used two datasets:
